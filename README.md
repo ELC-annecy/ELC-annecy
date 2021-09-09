@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gallery/elc.png" title="Logos">
+  <img src="elc.png" title="ELC">
 </p>
 
 Depuis 1973, elc est reconnue en tant que fabricant français spécialiste dans la conception et le développement : d'alimentations électriques, de laboratoire, générateurs de fonctions, boîtes à décades, afficheurs. Ces produits sont principalement destinés aux marchés : R&D / Enseignement / Industrie et Tertiaire.
