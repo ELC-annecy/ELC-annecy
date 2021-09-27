@@ -1,4 +1,4 @@
-Depuis 1973, elc est reconnue en tant que fabricant français spécialiste dans la conception et le développement : d'alimentations électriques, de laboratoire, générateurs de fonctions, boîtes à décades, afficheurs. Ces produits sont principalement destinés aux marchés : R&D / Enseignement / Industrie et Tertiaire.
+Depuis 1973, elc est reconnue en tant que fabricant français spécialiste dans la conception et le développement : d'alimentations rail DIN, alimentations de laboratoire, générateurs de fonctions, boîtes à décades, afficheurs. Ces produits sont principalement destinés aux marchés : R&D / Enseignement / Industrie et Tertiaire.
 
 <p align="center">
   <img src="ALRXX.png" title="ALR32XX">
